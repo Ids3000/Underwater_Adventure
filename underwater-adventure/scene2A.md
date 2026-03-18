@@ -1,18 +1,18 @@
-# 🤿 Scene 2A: Kelp Edge
+# 🤿 Scene 2A: Kelp Forest
 
-You descend toward the signal, leaving the bright reef behind. Tall strands of kelp rise around you, swaying slowly and blocking out more of the light with every meter.
+You follow the signal downward, leaving the bright reef behind. The water shifts to a muted green as tall strands of kelp rise around you.
 
-The signal leads you to a damaged crate, half-buried in the sand and tangled in plant growth. Scraps of metal are scattered nearby, like something broke apart on impact.
+Your PDA updates:
+> 💬 “Entering Kelp Forest.”
 
-As you move closer, something long and eel-like glides between the kelp. It keeps its distance, circling just far enough to stay out of reach.
+At the base, you find a damaged crate tangled in the plants, still emitting a faint signal. Something moves slowly nearby, just out of sight.
 
-The crate crackles with static:
-> 💬 “…anyone…”
+What do you do?
 
 What do you do?
 
 - 📦 [Open the crate and inspect it](./scene3A)
 
-- 👀 [Scan the creature before it disappears](./scene3B)
+- 👀 [Focus on the nearby movement](./scene3B)
 
-- ⬆️ [Head back up](./scene3C)
+- ⬆️ [Play it safe and retreat](./scene3C)
