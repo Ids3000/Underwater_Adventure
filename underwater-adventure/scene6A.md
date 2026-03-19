@@ -1,4 +1,4 @@
-# Scene 6A: The Observer 
+# 🐋 Scene 6A: The Observer 
 
 You return to the depths, this time prepared. 
 
@@ -10,8 +10,8 @@ The MASSIVE creature moves slowly through the deep....
 
 Your PDA logs the new creature and...
 
-> "...Behavior: Passive. Non-aggressive."
+> 💬 "...Behavior: Passive. Non-aggressive."
 
 You came looking for answers.. and found understanding.
 
-# ENDING: Finding Understanding
+# ENDING: Finding Understanding 🤝🏻

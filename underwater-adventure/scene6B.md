@@ -1,4 +1,4 @@
-# Scene 6B: Too Close 
+# 🦑 Scene 6B: Too Close 
 
 You swim closer, closer than you should.
 
@@ -10,6 +10,6 @@ The water around you surges, and suddenly you're not longer in control of your p
 
 Your vision blurs. Then....... nothing. 
 
-You PDA cuts out. 
+You PDA cuts out. 💀
 
-# ENDING: The Depths Unknown
+# ENDING: The Depths Unknown 
