@@ -1,4 +1,4 @@
-# Scene 6D: The Truth 
+# 🌅 Scene 6D: The Truth 
 
 You focus on the signal instead of the depth.
 
@@ -8,8 +8,8 @@ Patiently, piece by piece, the transmission becomes clear. The logs, warnings, a
 
 The depths begin to make sense to you.
 
-The ocean isn't hositle, just misunderstood. 
+The ocean isn't hositle, just misunderstood. 🪼
 
 You now have the knowledge others may have lost their lives for, and you're a step ahead for you next adventure. 
 
-# ENDING: Turtle Wins The Race 
+# ENDING: Turtle Wins The Race 🐢

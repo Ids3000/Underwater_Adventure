@@ -1,4 +1,4 @@
-# Scene 6C: Survivor 
+# 🪸 Scene 6C: Survivor 
 
 You choose caution.
 
@@ -10,4 +10,4 @@ But you remain alive.
 
 And prepared for future discovery.
 
-# ENDING: Live To See Another Day
+# ENDING: Live To See Another Day 🐠
