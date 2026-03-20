@@ -1,6 +1,6 @@
 # 👀 Scene 3B: The Creature 
 
-You scan the creature as it glides past. It slows slightly, reacting to your presence.
+You scan the small creature as it glides past. It slows slightly, reacting to your presence.
 
 > 💬 "Fauna detected. Behavior: Territorial."
 
