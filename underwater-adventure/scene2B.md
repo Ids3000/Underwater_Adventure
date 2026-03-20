@@ -6,7 +6,7 @@ You stay near the life pod, gathering materials and learning the area. The reef 
 
 Then your radio clicks on by itself.
 
-> 💬 “…depth… isn’t the problem…”
+> 💬 "...static..”
 
 The signal cuts out.
 

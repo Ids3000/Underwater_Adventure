@@ -2,13 +2,13 @@
 
 You climb into the life pod and adjust the radio. Static clears just enough for a broken transmission.
 
-> 💬 “…pod damaged… can’t surface… need help…”
+> 💬 "..is.. you... it."
 
 Your PDA briefly logs coordinates before they disappear.
 
 What do you do?
 
-- 🤿 [Respond to the distress signal! Follow the coordinates!](./scene2A.md)
+- 🤿 [Respond to the signal](./scene2A.md)
 
 - 🧪 [Prepare before risking a deeper dive and gather more supplies](./scene3C.md)
 
