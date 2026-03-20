@@ -12,4 +12,4 @@ What do you do?
 
 - 📡 [Try to lock onto the signal now](./scene3D.md)
 
-- 🤿 [Go after it immediately!](,/scene2A.md)
+- 🤿 [Go after it immediately!](./scene2A.md)
